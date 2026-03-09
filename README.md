@@ -1,5 +1,9 @@
 # Classe Digital
 
+## Interface do Aplicativo
+
+Em breve serão adicionadas imagens da interface do Classe Digital.
+
 ## Sobre o Projeto
 
 O Classe Digital é um aplicativo criado para ajudar estudantes a organizarem seus estudos e cursos online.
