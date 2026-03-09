@@ -1,7 +1,7 @@
 
 ![Status](https://img.shields.io/badge/status-finalizado-green)
-![Plataforma](https://img.shields.io/badge/plataforma-web-blue)
 ![Tecnologia](https://img.shields.io/badge/tecnologia-Lovable-yellow)
+![Plataforma](https://img.shields.io/badge/plataforma-Web%2FMobile%2FTablet-blue)
 
 # Classe Digital
 
