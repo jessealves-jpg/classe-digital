@@ -22,12 +22,25 @@ Criar uma ferramenta simples que ajude estudantes a transformar cursos online em
 
 Aplicativo finalizado / versão inicial concluída.
 
-## Autor
-
-Jessé Alves de Oliveira
-
 ## Documentação
 
 A documentação completa do projeto está disponível em:
 
 [PRD do Projeto](PRD.md)
+
+## Funcionalidades
+
+- Organização de cursos
+- Planejamento de estudos
+- Acompanhamento de progresso
+- Estruturação de trilhas de aprendizado
+
+## Conceito do Aplicativo
+
+O Classe Digital foi pensado como uma ferramenta simples para organização de estudos digitais, permitindo que o usuário concentre a gestão de seus cursos em um único lugar.
+
+A proposta do aplicativo é reduzir a desorganização causada pelo excesso de plataformas de ensino e ajudar o estudante a manter consistência em sua jornada de aprendizado.
+
+## Autor
+
+Jessé Alves de Oliveira
