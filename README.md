@@ -39,6 +39,22 @@ A documentação completa do projeto está disponível em:
 - Acompanhamento de progresso
 - Estruturação de trilhas de aprendizado
 
+## Roadmap
+
+### Versão 1
+- Organização de cursos
+- Planejamento de estudos
+- Controle de progresso
+
+### Versão 2 (planejada)
+- Sugestão automática de trilhas de estudo
+- Estatísticas de aprendizado
+- Organização por prioridades
+
+### Versão 3 (futuro)
+- Integração com plataformas de cursos
+- Recomendações personalizadas de estudo
+
 ## Conceito do Aplicativo
 
 O Classe Digital foi pensado como uma ferramenta simples para organização de estudos digitais, permitindo que o usuário concentre a gestão de seus cursos em um único lugar.
