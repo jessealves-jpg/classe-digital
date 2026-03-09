@@ -4,6 +4,8 @@
 
 Aplicativo conceitual para organização de estudos EAD e trilhas de aprendizagem.  
 Ajuda estudantes a organizar cursos online, planejar estudos e acompanhar o progresso.
+#
+🔗 Acesse o app: [Clique aqui para abrir o Classe Digital](https://classedigital.lovable.app)
 
 ---
 
