@@ -25,3 +25,9 @@ Aplicativo finalizado / versão inicial concluída.
 ## Autor
 
 Jessé Alves de Oliveira
+
+## Documentação
+
+A documentação completa do projeto está disponível em:
+
+[PRD do Projeto](PRD.md)
