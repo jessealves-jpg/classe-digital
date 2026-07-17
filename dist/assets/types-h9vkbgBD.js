@@ -1,0 +1,1 @@
+const a={not_started:"Não iniciado",in_progress:"Em andamento",completed:"Concluído",archived:"Arquivado"},o={not_started:"#64748b",in_progress:"#3b82f6",completed:"#22c55e",archived:"#94a3b8"},e=["Domingo","Segunda","Terça","Quarta","Quinta","Sexta","Sábado"],t=["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"];export{t as D,o as S,a,e as b};

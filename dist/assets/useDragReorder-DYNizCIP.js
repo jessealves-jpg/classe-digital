@@ -1,0 +1,6 @@
+import{c as m,r as a}from"./index-CE6tqs_4.js";/**
+ * @license lucide-react v0.439.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const b=m("GripVertical",[["circle",{cx:"9",cy:"12",r:"1",key:"1vctgf"}],["circle",{cx:"9",cy:"5",r:"1",key:"hp0tcf"}],["circle",{cx:"9",cy:"19",r:"1",key:"fkjjf6"}],["circle",{cx:"15",cy:"12",r:"1",key:"1tmaij"}],["circle",{cx:"15",cy:"5",r:"1",key:"19l28e"}],["circle",{cx:"15",cy:"19",r:"1",key:"f4zoj3"}]]);function h({items:g,onReorder:d}){const[s,t]=a.useState(null),[f,l]=a.useState(null),n=a.useRef(null),p=a.useCallback((r,c,e)=>{n.current=e,t(c),r.dataTransfer.effectAllowed="move",r.dataTransfer.setData("text/plain",c)},[]),i=a.useCallback((r,c)=>{r.preventDefault(),r.dataTransfer.dropEffect="move",l(c)},[]),D=a.useCallback((r,c,e)=>{r.preventDefault();const o=n.current;if(o===null||o===e){t(null),l(null);return}const u=g.map(v=>v.id),[k]=u.splice(o,1);u.splice(e,0,k),d(u),t(null),l(null),n.current=null},[g,d]),y=a.useCallback(()=>{t(null),l(null),n.current=null},[]);return{getItemProps:(r,c)=>({draggable:!0,onDragStart:e=>p(e,r,c),onDragOver:e=>i(e,r),onDrop:e=>D(e,r,c),onDragEnd:y,className:`${s===r?"dragging":""} ${f===r&&s!==r?"drag-over":""}`}),draggingId:s,dragOverId:f}}export{b as G,h as u};
